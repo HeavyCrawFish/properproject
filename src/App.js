@@ -20,7 +20,7 @@ function App() {
     <Router>
       <Switch>
         <Route
-          path="/watchu"
+          path="/properproject"
           exact
           strict
           render={() => {
