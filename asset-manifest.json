@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/watchu/static/css/main.7d10822b.chunk.css",
+    "main.js": "/watchu/static/js/main.d19f1902.chunk.js",
+    "main.js.map": "/watchu/static/js/main.d19f1902.chunk.js.map",
+    "runtime-main.js": "/watchu/static/js/runtime-main.d1e84781.js",
+    "runtime-main.js.map": "/watchu/static/js/runtime-main.d1e84781.js.map",
+    "static/css/2.ccf26a80.chunk.css": "/watchu/static/css/2.ccf26a80.chunk.css",
+    "static/js/2.0d5b4a56.chunk.js": "/watchu/static/js/2.0d5b4a56.chunk.js",
+    "static/js/2.0d5b4a56.chunk.js.map": "/watchu/static/js/2.0d5b4a56.chunk.js.map",
+    "index.html": "/watchu/index.html",
+    "precache-manifest.2ed6206764ffadd7d778ae6007ba8bb0.js": "/watchu/precache-manifest.2ed6206764ffadd7d778ae6007ba8bb0.js",
+    "service-worker.js": "/watchu/service-worker.js",
+    "static/css/2.ccf26a80.chunk.css.map": "/watchu/static/css/2.ccf26a80.chunk.css.map",
+    "static/css/main.7d10822b.chunk.css.map": "/watchu/static/css/main.7d10822b.chunk.css.map",
+    "static/js/2.0d5b4a56.chunk.js.LICENSE.txt": "/watchu/static/js/2.0d5b4a56.chunk.js.LICENSE.txt",
+    "static/media/apple.jpg": "/watchu/static/media/apple.45fd811c.jpg",
+    "static/media/p2.jpg": "/watchu/static/media/p2.9966c33c.jpg",
+    "static/media/p3.jpg": "/watchu/static/media/p3.e2b64c22.jpg",
+    "static/media/p4.jpg": "/watchu/static/media/p4.6af85e24.jpg",
+    "static/media/p5.jpg": "/watchu/static/media/p5.341c0791.jpg",
+    "static/media/p6.jpg": "/watchu/static/media/p6.1eeba7ac.jpg",
+    "static/media/person.jpg": "/watchu/static/media/person.cd7acf34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e84781.js",
+    "static/css/2.ccf26a80.chunk.css",
+    "static/js/2.0d5b4a56.chunk.js",
+    "static/css/main.7d10822b.chunk.css",
+    "static/js/main.d19f1902.chunk.js"
+  ]
+}
